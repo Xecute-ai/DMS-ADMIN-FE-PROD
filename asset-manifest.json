@@ -1,0 +1,41 @@
+{
+  "files": {
+    "app.js": "/static/js/app.fbe2d577.chunk.js",
+    "app.js.map": "/static/js/app.fbe2d577.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
+    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
+    "static/js/2.195c9309.chunk.js": "/static/js/2.195c9309.chunk.js",
+    "static/js/2.195c9309.chunk.js.map": "/static/js/2.195c9309.chunk.js.map",
+    "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.195c9309.chunk.js.LICENSE.txt": "/static/js/2.195c9309.chunk.js.LICENSE.txt",
+    "static/media/VZvw.gif": "/static/media/VZvw.5f03f4e3.gif",
+    "static/media/bike.png": "/static/media/bike.fa7a4476.png",
+    "static/media/driver.svg": "/static/media/driver.12ce6988.svg",
+    "static/media/logo-01.png": "/static/media/logo-01.e0382913.png",
+    "static/media/person.png": "/static/media/person.4d51304c.png",
+    "static/media/pp.png": "/static/media/pp.c3f94521.png",
+    "static/media/unsplash.png": "/static/media/unsplash.23b15f5f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2e9f1821.js",
+    "static/js/2.195c9309.chunk.js",
+    "static/js/app.fbe2d577.chunk.js"
+  ]
+}
